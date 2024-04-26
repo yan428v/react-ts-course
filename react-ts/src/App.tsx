@@ -5,8 +5,11 @@ const App = () => {
         <div>
             <Card width={"200px"} height={"200px"}>
                 <button>Кнопка</button>
+                <div>fsdafdsaf</div>
             </Card>
         </div>
+
+
 );
 };
 

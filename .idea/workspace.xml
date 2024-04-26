@@ -4,12 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="257c393b-5a51-4b87-925c-13779c53c7b8" name="Changes" comment="" />
+    <list default="true" id="257c393b-5a51-4b87-925c-13779c53c7b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-ts/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-ts/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-ts/src/component/Card.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-ts/src/component/Card.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-ts/src/main.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react-ts/src/main.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "yan428v"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/yan428v/react-ts-course.git",
+    "accountId": "2633387a-865b-47ad-8463-98bf4f4642bc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 1
@@ -22,11 +42,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "/Users/yan/WebstormProjects/react-ts-course/react-ts/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +68,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714060500130</updated>
-      <workItem from="1714060501909" duration="4665000" />
+      <workItem from="1714060501909" duration="9168000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="browserslist" />
   </component>
 </project>
